@@ -464,6 +464,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - * 🌎 [PersonaForce](personaforce.ai/)** - Create and chat with AI buyer personas for smarter marketing
 - * 🌎 [Publish7](publish7.com/)** -AI Agents to revolutionize digital marketing for Retail and E-commerce success.
 - * 🌎 [Keyla.AI](keyla.ai/)** - Create video ads in minutes
+- * 🌎 [RankingRider](www.rankingrider.com/)** - AI-powered bulk SEO optimization for Shopify products via CSV. 
 
 
 ### Phone Calls
@@ -594,4 +595,5 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 created by [Mahsima Dastan](https://github.com/mahseema)
 
 ## Source
+
 <b><code>&nbsp;&nbsp;4325⭐</code></b> <b><code>&nbsp;&nbsp;&nbsp;941🍴</code></b> [mahseema/awesome-ai-tools](https://github.com/mahseema/awesome-ai-tools))
