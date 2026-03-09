@@ -207,6 +207,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - 🌎 [Explainpaper](www.explainpaper.com/) - A better way to read academic papers. Upload a paper, highlight confusing text, get an explanation.
 - 🌎 [Galactica](galactica.org/) - A large language model for science. Can summarize academic literature, solve math problems, generate Wiki articles, write scientific code, annotate molecules and proteins, and more. <b><code>&nbsp;&nbsp;2738⭐</code></b> <b><code>&nbsp;&nbsp;&nbsp;267🍴</code></b> [Model API](https://github.com/paperswithcode/galai)).
 - 🌎 [Consensus](consensus.app/search/) - Consensus is a search engine that uses AI to find answers in scientific research.
+- <b><code>&nbsp;&nbsp;&nbsp;&nbsp;26⭐</code></b> <b><code>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2🍴</code></b> [BGPT MCP](https://github.com/connerlambden/bgpt-mcp)) - Hosted MCP server for searching scientific papers with full-text experimental data. 50 free searches, no API key needed.
 - 🌎 [Sourcely](www.sourcely.net/) - Academic Citation Finding Tool with AI
 - 🌎 [SciSpace](scispace.com/) - AI Chat for scientific PDFs.
 - 🌎 [NotebookLM](notebooklm.google.com/) - AI Chat on your own document, link and text resources.
