@@ -78,14 +78,14 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - 🌎 [You.com](you.com/) - A search engine built on AI that provides users with a customized search experience while keeping their data 100% private.
 - 🌎 [Komo AI](komo.ai/) - An AI based Search engine which responses quick and short answers.
 - 🌎 [Telborg](telborg.com/) - AI for Climate Research, with data exclusively from governments, international institutions and companies.
-- <b><code>&nbsp;&nbsp;1490⭐</code></b> <b><code>&nbsp;&nbsp;&nbsp;208🍴</code></b> [MemFree](https://github.com/memfreeme/memfree)) - Open Source Hybrid AI Search Engine, Instantly Get Accurate Answers from the Internet, Bookmarks, Notes, and Docs
+- <b><code>&nbsp;&nbsp;1488⭐</code></b> <b><code>&nbsp;&nbsp;&nbsp;209🍴</code></b> [MemFree](https://github.com/memfreeme/memfree)) - Open Source Hybrid AI Search Engine, Instantly Get Accurate Answers from the Internet, Bookmarks, Notes, and Docs
 - 🌎 [Refinder AI](refinder.ai/) - AI-powered universal search and assistant for work
 - 🌎 [Agentset.ai](agentset.ai/) - Open-source local Semantic Search + RAG for your data
 
 ### Local search engines
 
-- <b><code>&nbsp;57205⭐</code></b> <b><code>&nbsp;&nbsp;7609🍴</code></b> [privateGPT](https://github.com/imartinez/privateGPT)) - Ask questions to your documents without an internet connection, using the power of LLMs.
-- <b><code>&nbsp;39084⭐</code></b> <b><code>&nbsp;&nbsp;3741🍴</code></b> [quivr](https://github.com/StanGirard/quivr)) - Dump all your files and chat with it using your generative AI second brain using LLMs & embeddings.
+- <b><code>&nbsp;57183⭐</code></b> <b><code>&nbsp;&nbsp;7607🍴</code></b> [privateGPT](https://github.com/imartinez/privateGPT)) - Ask questions to your documents without an internet connection, using the power of LLMs.
+- <b><code>&nbsp;39015⭐</code></b> <b><code>&nbsp;&nbsp;3732🍴</code></b> [quivr](https://github.com/StanGirard/quivr)) - Dump all your files and chat with it using your generative AI second brain using LLMs & embeddings.
 
 ### Writing assistants
 
@@ -136,7 +136,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - 🌎 [ChatGPT Writer](chatgptwriter.ai/) - Generate entire emails and messages using ChatGPT AI.
 - <b><code>&nbsp;&nbsp;&nbsp;306⭐</code></b> <b><code>&nbsp;&nbsp;&nbsp;&nbsp;55🍴</code></b> [ChatGPT for Jupyter](https://github.com/TiesdeKok/chat-gpt-jupyter-extension)) - Add various helper functions in Jupyter Notebooks and Jupyter Lab, powered by ChatGPT.
 - 🌎 [editGPT](www.editgpt.app/) - Easily proofread, edit, and track changes to your content in chatGPT.
-- 🌎 [Chatbot UI](www.chatbotui.com/) - An open source ChatGPT UI. <b><code>&nbsp;33144⭐</code></b> <b><code>&nbsp;&nbsp;9437🍴</code></b> [Source code](https://github.com/mckaywrigley/chatbot-ui)).
+- 🌎 [Chatbot UI](www.chatbotui.com/) - An open source ChatGPT UI. <b><code>&nbsp;33108⭐</code></b> <b><code>&nbsp;&nbsp;9471🍴</code></b> [Source code](https://github.com/mckaywrigley/chatbot-ui)).
 - 🌎 [Forefront](www.forefront.ai/) - A Better ChatGPT Experience.
 - 🌎 [AI Character for GPT](chromewebstore.google.com/detail/ai-character-for-gpt/daoeioifimkjegafelcaljboknjkkohh) - One click to curate AI chatbot, including ChatGPT, Google Bard to improve AI responses.
 
@@ -205,7 +205,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - 🌎 [Elicit](elicit.org/) - Elicit uses language models to help you automate research workflows, like parts of literature review.
 - 🌎 [genei](www.genei.io/) - Summarise academic articles in seconds and save 80% on your research times.
 - 🌎 [Explainpaper](www.explainpaper.com/) - A better way to read academic papers. Upload a paper, highlight confusing text, get an explanation.
-- 🌎 [Galactica](galactica.org/) - A large language model for science. Can summarize academic literature, solve math problems, generate Wiki articles, write scientific code, annotate molecules and proteins, and more. <b><code>&nbsp;&nbsp;2738⭐</code></b> <b><code>&nbsp;&nbsp;&nbsp;266🍴</code></b> [Model API](https://github.com/paperswithcode/galai)).
+- 🌎 [Galactica](galactica.org/) - A large language model for science. Can summarize academic literature, solve math problems, generate Wiki articles, write scientific code, annotate molecules and proteins, and more. <b><code>&nbsp;&nbsp;2741⭐</code></b> <b><code>&nbsp;&nbsp;&nbsp;266🍴</code></b> [Model API](https://github.com/paperswithcode/galai)).
 - 🌎 [Consensus](consensus.app/search/) - Consensus is a search engine that uses AI to find answers in scientific research.
 - 🌎 [Sourcely](www.sourcely.net/) - Academic Citation Finding Tool with AI
 - 🌎 [SciSpace](scispace.com/) - AI Chat for scientific PDFs.
@@ -237,10 +237,10 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - 🌎 [Keploy](keploy.io/) - Open source Tool for converting user traffic to Test Cases and Data Stubs.
 - 🌎 [LangChain](langchain.com/) - A framework for developing applications powered by language models.
 - 🌎 [Portia AI](www.portialabs.ai/) - Open source framework for building agents that pre-express their planned actions, share their progress and can be interrupted by a human. <b><code>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;?⭐</code></b> <b><code>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;?🍴</code></b> [#opensource](https://github.com/portiaAI/portia-sdk-python))
-- <b><code>&nbsp;77232⭐</code></b> <b><code>&nbsp;&nbsp;8328🍴</code></b> [gpt4all](https://github.com/nomic-ai/gpt4all)) - A chatbot trained on a massive collection of clean assistant data including code, stories, and dialogue.
+- <b><code>&nbsp;77227⭐</code></b> <b><code>&nbsp;&nbsp;8327🍴</code></b> [gpt4all](https://github.com/nomic-ai/gpt4all)) - A chatbot trained on a massive collection of clean assistant data including code, stories, and dialogue.
 - 🌎 [LMQL](lmql.ai/) - LMQL is a query language for large language models.
 - 🌎 [LlamaIndex](www.llamaindex.ai/) - A data framework for building LLM applications over external data.
-- 🌎 [Langfuse](langfuse.com/) - Open-source LLM engineering platform that helps teams collaboratively debug, analyze, and iterate on their LLM applications. <b><code>&nbsp;24323⭐</code></b> <b><code>&nbsp;&nbsp;2455🍴</code></b> [#opensource](https://github.com/langfuse/langfuse))
+- 🌎 [Langfuse](langfuse.com/) - Open-source LLM engineering platform that helps teams collaboratively debug, analyze, and iterate on their LLM applications. <b><code>&nbsp;23220⭐</code></b> <b><code>&nbsp;&nbsp;2348🍴</code></b> [#opensource](https://github.com/langfuse/langfuse))
 - 🌎 [Phoenix](phoenix.arize.com/) - Open-source tool for ML observability that runs in your notebook environment, by Arize. Monitor and fine-tune LLM, CV, and tabular models.
 - 🌎 [Prediction Guard](www.predictionguard.com/) - Seamlessly integrate private, controlled, and compliant Large Language Models (LLM) functionality.
 - 🌎 [Portkey](portkey.ai/) - Full-stack LLMOps platform to monitor, manage, and improve LLM-based apps.
@@ -252,7 +252,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - 🌎 [CodeRabbit](coderabbit.ai/) - An AI-powered code review tool that helps developers improve code quality and productivity.
 - 🌎 [Pagerly](www.pagerly.io) - Your Operations Co-pilot on Slack/Teams. It assists and prompts oncall with relevant information to debug issues.  
 - 🌎 [Hexabot](hexabot.ai) - A Open-source No-Code tool to build your AI Chatbot / Agent (multi-lingual, multi-channel, LLM, NLU, + ability to develop custom extensions)
-- <b><code>&nbsp;15197⭐</code></b> <b><code>&nbsp;&nbsp;1111🍴</code></b> [Plandex](https://github.com/plandex-ai/plandex)) - Open source, terminal-based AI programming engine for complex tasks.
+- <b><code>&nbsp;15081⭐</code></b> <b><code>&nbsp;&nbsp;1098🍴</code></b> [Plandex](https://github.com/plandex-ai/plandex)) - Open source, terminal-based AI programming engine for complex tasks.
 - 🌎 [AI/ML API](aimlapi.com/?utm_source=github+of+altern.ai) - AI/ML API gives developers access to 100+ AI models with one API.
 - 🌎 [Callstack.ai PR Reviewer](callstack.ai/pr-reviewer) - Automated Code Reviews: Find Bugs, Fix Security Issues, and Speed Up Performance.
 - 🌎 [Opik](www.comet.com/site/products/opik/) - Evaluate, test, and ship LLM applications with a suite of observability tools to calibrate language model outputs across your dev and production lifecycle.
@@ -260,22 +260,22 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - 🌎 [Calmo](getcalmo.com/) - Debug Production x10 Faster with AI.
 - 🌎 [Cleanlab](help.cleanlab.ai/tlm/) - Detect and remediate hallucinations in any LLM application.
 - 🌎 [Amazon Q Developer CLI](docs.aws.amazon.com/amazonq/latest/qdeveloper-ug/command-line.html?trk=fd6bb27a-13b0-4286-8269-c7b1cfaa29f0&sc_channel=el) - CLI that provides command completion, command translation using generative AI to translate intent to commands, and a full agentic chat interface with context management that helps you write code.
-- <b><code>&nbsp;&nbsp;&nbsp;941⭐</code></b> <b><code>&nbsp;&nbsp;&nbsp;125🍴</code></b> [Agentic Radar](https://github.com/splx-ai/agentic-radar)) - Open-source CLI security scanner for agentic workflows.
-- <b><code>&nbsp;&nbsp;7215⭐</code></b> <b><code>&nbsp;&nbsp;&nbsp;718🍴</code></b> [VoltAgent](https://github.com/voltagent/voltagent)) - A TypeScript framework for building and running AI agents with tools, memory, and visibility.
-- <b><code>&nbsp;&nbsp;1929⭐</code></b> <b><code>&nbsp;&nbsp;&nbsp;174🍴</code></b> [Notte](https://github.com/nottelabs/notte)) - Notte is the fastest, most reliable Browser Using Agents framework
+- <b><code>&nbsp;&nbsp;&nbsp;926⭐</code></b> <b><code>&nbsp;&nbsp;&nbsp;122🍴</code></b> [Agentic Radar](https://github.com/splx-ai/agentic-radar)) - Open-source CLI security scanner for agentic workflows.
+- <b><code>&nbsp;&nbsp;6756⭐</code></b> <b><code>&nbsp;&nbsp;&nbsp;661🍴</code></b> [VoltAgent](https://github.com/voltagent/voltagent)) - A TypeScript framework for building and running AI agents with tools, memory, and visibility.
+- <b><code>&nbsp;&nbsp;1922⭐</code></b> <b><code>&nbsp;&nbsp;&nbsp;172🍴</code></b> [Notte](https://github.com/nottelabs/notte)) - Notte is the fastest, most reliable Browser Using Agents framework
 - 🌎 [TensorZero](www.tensorzero.com/) - An open-source framework for building production-grade LLM applications. It unifies an LLM gateway, observability, optimization, evaluations, and experimentation.
-- <b><code>&nbsp;&nbsp;1696⭐</code></b> <b><code>&nbsp;&nbsp;&nbsp;198🍴</code></b> [ToolHive](https://github.com/stacklok/toolhive)) – Find the right MCP server for your task and deploy with one click. 
+- <b><code>&nbsp;&nbsp;1655⭐</code></b> <b><code>&nbsp;&nbsp;&nbsp;191🍴</code></b> [ToolHive](https://github.com/stacklok/toolhive)) – Find the right MCP server for your task and deploy with one click. 
 - 🌎 [StarOps](ingenimax.ai) - AI Platform Engineer
 - 🌎 [AgentDock](agentdock.ai) - Unified infrastructure for AI agents and automation. One API key for all services instead of managing dozens. Build production-ready agents without operational complexity.
 - 🌎 [Codeflash](www.codeflash.ai/) - Ship Blazing-Fast Python Code — Every Time.
 - 🌎 [Rysa AI](www.rysa.ai) - AI GTM Automation Agent
-- 🌎 [Agenta](agenta.ai/) - Open-source LLMOps platform for prompt management, LLM evaluation, and observability. Build, evaluate, and monitor production-grade LLM applications. <b><code>&nbsp;&nbsp;3997⭐</code></b> <b><code>&nbsp;&nbsp;&nbsp;505🍴</code></b> [#opensource](https://github.com/agenta-ai/agenta))
+- 🌎 [Agenta](agenta.ai/) - Open-source LLMOps platform for prompt management, LLM evaluation, and observability. Build, evaluate, and monitor production-grade LLM applications. <b><code>&nbsp;&nbsp;3932⭐</code></b> <b><code>&nbsp;&nbsp;&nbsp;493🍴</code></b> [#opensource](https://github.com/agenta-ai/agenta))
 
 
 ## Code
 
 - <b><code>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;?⭐</code></b> <b><code>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;?🍴</code></b> [GitHub Copilot](https://github.com/features/copilot)) - GitHub Copilot uses the OpenAI Codex to suggest code and entire functions in real-time, right from your editor.
-- <b><code>&nbsp;&nbsp;&nbsp;&nbsp;54⭐</code></b> <b><code>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3🍴</code></b> [poorcoder](https://github.com/vgrichina/poorcoder)) - Lightweight Bash scripts that enhance your terminal coding workflow with web-based AI assistants like Claude or Grok without disrupting your development process.
+- <b><code>&nbsp;&nbsp;&nbsp;&nbsp;53⭐</code></b> <b><code>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3🍴</code></b> [poorcoder](https://github.com/vgrichina/poorcoder)) - Lightweight Bash scripts that enhance your terminal coding workflow with web-based AI assistants like Claude or Grok without disrupting your development process.
 - 🌎 [OpenAI Codex](platform.openai.com/docs/guides/code/) - An AI system by OpenAI that translates natural language to code.
 - 🌎 [Ghostwriter](blog.replit.com/ai) - An AI-powered pair programmer by Replit.
 - 🌎 [GoCodeo](www.gocodeo.com/)- An AI Coding & Testing Agent.
@@ -287,21 +287,21 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - 🌎 [Debuild](debuild.app/) - AI-powered low-code tool for web apps.
 - 🌎 [AI2sql](www.ai2sql.io/) - With AI2sql, engineers and non-engineers can easily write efficient, error-free SQL queries without knowing SQL.
 - 🌎 [CodiumAI](www.codium.ai/) - With CodiumAI, you get non-trivial tests suggested right inside your IDE, so you stay confident when you push.
-- <b><code>&nbsp;10759⭐</code></b> <b><code>&nbsp;&nbsp;1402🍴</code></b> [PR-Agent](https://github.com/Codium-ai/pr-agent)) - AI-powered tool for automated PR analysis, feedback, suggestions, and more.
+- <b><code>&nbsp;10545⭐</code></b> <b><code>&nbsp;&nbsp;1347🍴</code></b> [PR-Agent](https://github.com/Codium-ai/pr-agent)) - AI-powered tool for automated PR analysis, feedback, suggestions, and more.
 - 🌎 [MutableAI](mutable.ai/) - AI Accelerated Software Development.
-- <b><code>&nbsp;&nbsp;3799⭐</code></b> <b><code>&nbsp;&nbsp;&nbsp;123🍴</code></b> [TurboPilot](https://github.com/ravenscroftj/turbopilot)) - A self-hosted copilot clone that uses the library behind llama.cpp to run the 6 billion parameter Salesforce Codegen model in 4 GB of RAM.
-- <b><code>&nbsp;&nbsp;3560⭐</code></b> <b><code>&nbsp;&nbsp;&nbsp;434🍴</code></b> [GPT-Code UI](https://github.com/ricklamers/gpt-code-ui)) - An open-source implementation of OpenAI's ChatGPT Code interpreter.
-- <b><code>&nbsp;66626⭐</code></b> <b><code>&nbsp;&nbsp;8417🍴</code></b> [MetaGPT](https://github.com/geekan/MetaGPT)) - The Multi-Agent Framework: Given one line Requirement, return PRD, Design, Tasks, Repo
-- <b><code>&nbsp;&nbsp;&nbsp;293⭐</code></b> <b><code>&nbsp;&nbsp;&nbsp;&nbsp;26🍴</code></b> [MutahunterAI](https://github.com/codeintegrity-ai/mutahunter)) - Accelerate developer productivity and code security with our open-source AI.
+- <b><code>&nbsp;&nbsp;3804⭐</code></b> <b><code>&nbsp;&nbsp;&nbsp;124🍴</code></b> [TurboPilot](https://github.com/ravenscroftj/turbopilot)) - A self-hosted copilot clone that uses the library behind llama.cpp to run the 6 billion parameter Salesforce Codegen model in 4 GB of RAM.
+- <b><code>&nbsp;&nbsp;3574⭐</code></b> <b><code>&nbsp;&nbsp;&nbsp;434🍴</code></b> [GPT-Code UI](https://github.com/ricklamers/gpt-code-ui)) - An open-source implementation of OpenAI's ChatGPT Code interpreter.
+- <b><code>&nbsp;65264⭐</code></b> <b><code>&nbsp;&nbsp;8218🍴</code></b> [MetaGPT](https://github.com/geekan/MetaGPT)) - The Multi-Agent Framework: Given one line Requirement, return PRD, Design, Tasks, Repo
+- <b><code>&nbsp;&nbsp;&nbsp;288⭐</code></b> <b><code>&nbsp;&nbsp;&nbsp;&nbsp;26🍴</code></b> [MutahunterAI](https://github.com/codeintegrity-ai/mutahunter)) - Accelerate developer productivity and code security with our open-source AI.
 - <b><code>&nbsp;&nbsp;&nbsp;&nbsp;31⭐</code></b> <b><code>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3🍴</code></b> [AI Kernel Explorer](https://github.com/mathiscode/ai-kernel-explorer)) - Explore the Linux kernel source code with AI-generated summaries.
-- <b><code>&nbsp;&nbsp;4708⭐</code></b> <b><code>&nbsp;&nbsp;&nbsp;181🍴</code></b> [WhoDB](https://github.com/clidey/whodb)) - SQL/NoSQL/Graph/Cache/Object data explorer with AI-powered chat + other useful features
+- <b><code>&nbsp;&nbsp;4680⭐</code></b> <b><code>&nbsp;&nbsp;&nbsp;178🍴</code></b> [WhoDB](https://github.com/clidey/whodb)) - SQL/NoSQL/Graph/Cache/Object data explorer with AI-powered chat + other useful features
 - 🌎 [FlexApp](flexapp.ai/) - Build mobile apps with AI, not code
 - 🌎 [Kilo Code](kilocode.ai) - Open Source AI coding assistant for planning, building, and fixing code inside VS Code.
 - 🌎 [Capacity](capacity.so) - Capacity lets you turn your ideas into fully functional web apps in minutes using AI.
 - 🌎 [Runcell](runcell.dev) - AI Agent Extension for Jupyter Lab, Agent that can code, execute, analysis cell result, etc in Jupyter.
-- <b><code>&nbsp;&nbsp;4178⭐</code></b> <b><code>&nbsp;&nbsp;&nbsp;215🍴</code></b> [Manifest](https://github.com/mnfst/manifest)) - An alternative to Supabase for AI Code editors and Vibe Coding tools
-- <b><code>&nbsp;&nbsp;&nbsp;303⭐</code></b> <b><code>&nbsp;&nbsp;&nbsp;&nbsp;42🍴</code></b> [DataPup](https://github.com/DataPupOrg/DataPup)) - Database client with AI-powered query assistance to generate context based queries.
-- <b><code>&nbsp;&nbsp;&nbsp;207⭐</code></b> <b><code>&nbsp;&nbsp;&nbsp;&nbsp;15🍴</code></b> [Gito](https://github.com/Nayjest/Gito)) - AI code reviewer for GitHub Actions or local use, compatible with any LLM and integrated with Jira/Linear.
+- <b><code>&nbsp;&nbsp;3795⭐</code></b> <b><code>&nbsp;&nbsp;&nbsp;192🍴</code></b> [Manifest](https://github.com/mnfst/manifest)) - An alternative to Supabase for AI Code editors and Vibe Coding tools
+- <b><code>&nbsp;&nbsp;&nbsp;296⭐</code></b> <b><code>&nbsp;&nbsp;&nbsp;&nbsp;42🍴</code></b> [DataPup](https://github.com/DataPupOrg/DataPup)) - Database client with AI-powered query assistance to generate context based queries.
+- <b><code>&nbsp;&nbsp;&nbsp;188⭐</code></b> <b><code>&nbsp;&nbsp;&nbsp;&nbsp;14🍴</code></b> [Gito](https://github.com/Nayjest/Gito)) - AI code reviewer for GitHub Actions or local use, compatible with any LLM and integrated with Jira/Linear.
 
 
 ## Image
@@ -316,7 +316,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - 🌎 [Midjourney](www.midjourney.com/) - Midjourney is an independent research lab exploring new mediums of thought and expanding the imaginative powers of the human species.
 - 🌎 [Imagen](imagen.research.google/) - Imagen by Google is a text-to-image diffusion model with an unprecedented degree of photorealism and a deep level of language understanding.
 - 🌎 [Make-A-Scene](ai.facebook.com/blog/greater-creative-control-for-ai-image-generation/) - Make-A-Scene by Meta is a multimodal generative AI method puts creative control in the hands of people who use it by allowing them to describe and illustrate their vision through both text descriptions and freeform sketches.
-- <b><code>&nbsp;35921⭐</code></b> <b><code>&nbsp;&nbsp;3434🍴</code></b> [DragGAN](https://github.com/XingangPan/DragGAN)) - Drag Your GAN: Interactive Point-based Manipulation on the Generative Image Manifold.
+- <b><code>&nbsp;35968⭐</code></b> <b><code>&nbsp;&nbsp;3438🍴</code></b> [DragGAN](https://github.com/XingangPan/DragGAN)) - Drag Your GAN: Interactive Point-based Manipulation on the Generative Image Manifold.
 - 🌎 [Canva](www.canva.com/) - Generate and Edit your Pictures with the help of AI
 
 ### Services
@@ -387,7 +387,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 
 - 🌎 [Stable Horde](stablehorde.net/) - A crowdsourced distributed cluster of Stable Diffusion workers.
 - 🌎 [PublicPrompts](publicprompts.art/) - A collection of free prompts for Stable Diffusion.
-- <b><code>&nbsp;&nbsp;4301⭐</code></b> <b><code>&nbsp;&nbsp;&nbsp;490🍴</code></b> [Hugging Face Diffusion Models Course](https://github.com/huggingface/diffusion-models-class)) - Python materials for the online course on diffusion models by [@huggingface](https://github.com/huggingface).
+- <b><code>&nbsp;&nbsp;4296⭐</code></b> <b><code>&nbsp;&nbsp;&nbsp;491🍴</code></b> [Hugging Face Diffusion Models Course](https://github.com/huggingface/diffusion-models-class)) - Python materials for the online course on diffusion models by [@huggingface](https://github.com/huggingface).
 
 ## Video
 
@@ -424,7 +424,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - 🌎 [Lovo.ai](www.lovo.ai/) - 🌎 [Review](theresanai.com/lovo-ai) - A compelling choice for creative professionals, especially useful in ads and explainer videos.
 - 🌎 [Zenmic.com](zenmic.com) -  An app to generate podcast eposode ( script + Audio ) using AI.
 - 🌎 [Audify AI](audify-ai.ahmedtokyo.com) - User-friendly platform for voice synthesis with customizable options and instructions, making it versatile for both developers and creatives.
-- <b><code>&nbsp;&nbsp;3054⭐</code></b> <b><code>&nbsp;&nbsp;&nbsp;309🍴</code></b> [TTS WebUI](https://github.com/rsxdalv/tts-generation-webui)) - Open Source generative AI App for voice and music, supporting 15+ TTS models.
+- <b><code>&nbsp;&nbsp;3019⭐</code></b> <b><code>&nbsp;&nbsp;&nbsp;306🍴</code></b> [TTS WebUI](https://github.com/rsxdalv/tts-generation-webui)) - Open Source generative AI App for voice and music, supporting 15+ TTS models.
 - 🌎 [AInterview.space](ainterview.space) – Create AI-hosted podcast interviews. Choose a topic, and Joe (the AI host) will research, host the interview, and generate your episode as audio or video.
 
 
@@ -480,8 +480,8 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - 🌎 [Coqui](coqui.ai/) - Generative AI for Voice.
 - 🌎 [podcast.ai](podcast.ai/) - A podcast that is entirely generated by artificial intelligence, powered by Play.ht text-to-voice AI.
 - 🌎 [VALL-E X](vallex-demo.github.io/) - A cross-lingual neural codec language model for cross-lingual speech synthesis.
-- <b><code>&nbsp;14824⭐</code></b> <b><code>&nbsp;&nbsp;2049🍴</code></b> [TorToiSe](https://github.com/neonbjb/tortoise-tts)) - A multi-voice text-to-speech system trained with an emphasis on quality. #opensource
-- <b><code>&nbsp;39069⭐</code></b> <b><code>&nbsp;&nbsp;4685🍴</code></b> [Bark](https://github.com/suno-ai/bark)) - A transformer-based text-to-audio model. #opensource
+- <b><code>&nbsp;14824⭐</code></b> <b><code>&nbsp;&nbsp;2051🍴</code></b> [TorToiSe](https://github.com/neonbjb/tortoise-tts)) - A multi-voice text-to-speech system trained with an emphasis on quality. #opensource
+- <b><code>&nbsp;39046⭐</code></b> <b><code>&nbsp;&nbsp;4685🍴</code></b> [Bark](https://github.com/suno-ai/bark)) - A transformer-based text-to-audio model. #opensource
 - 🌎 [CustomPod.io](custompod.io) - Generate daily news podcasts only on the topics you care about.
 - 🌎 [EKHOS AI](ekhos.ai) - An AI speech-to-text software with powerful proofreading features. Transcribe most audio or video files with real-time recording and transcription.
   
@@ -505,7 +505,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - 🌎 [Scenario](www.scenario.com/) - AI-generated gaming assets.
 - <b><code>&nbsp;&nbsp;&nbsp;335⭐</code></b> <b><code>&nbsp;&nbsp;&nbsp;&nbsp;39🍴</code></b> [Teleprompter](https://github.com/danielgross/teleprompter)) - An on-device AI for your meetings that listens to you and makes charismatic quote suggestions.
 - 🌎 [FinChat](finchat.io/) - Using AI, FinChat generates answers to questions about public companies and investors.
-- <b><code>&nbsp;10038⭐</code></b> <b><code>&nbsp;&nbsp;&nbsp;597🍴</code></b> [Petals](https://github.com/bigscience-workshop/petals)) - BitTorrent style platform for running AI models in a distributed way.
+- <b><code>&nbsp;10004⭐</code></b> <b><code>&nbsp;&nbsp;&nbsp;596🍴</code></b> [Petals](https://github.com/bigscience-workshop/petals)) - BitTorrent style platform for running AI models in a distributed way.
 - 🌎 [Shotstack Workflows](shotstack.io/product/workflows/) - No-code, automation workflow tool for building Generative AI media applications.
 - 🌎 [Aispect](aispect.io/?ref=mahseema-awesome-ai-tools) - New way to experience events.
 - 🌎 [PressPulse AI](www.presspulse.ai/?ref=mahseema-awesome-ai-tools) - Get personalized media coverage leads every morning.
@@ -532,7 +532,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - 🌎 [Exam Samurai](www.examsamur.ai/) - AI Exam Generator
 - 🌎 [AI Watermark Remover](aiwatermarkremover.io/) - Remove watermarks from images and videos.
 - 🌎 [AISaver](aisaver.io) - Collection of AI Powered Video and Photo Tools
-- <b><code>&nbsp;&nbsp;2642⭐</code></b> <b><code>&nbsp;&nbsp;&nbsp;177🍴</code></b> [Harbor](https://github.com/av/harbor)) - run LLM backends, APIs, frontends, and services with one command
+- <b><code>&nbsp;&nbsp;2506⭐</code></b> <b><code>&nbsp;&nbsp;&nbsp;169🍴</code></b> [Harbor](https://github.com/av/harbor)) - run LLM backends, APIs, frontends, and services with one command
 - 🌎 [LangMagic](easytolearn.io) - Learn languages from native content.
 - 🌎 [fynk](fynk.com/) - AI powered contract management software
 - 🌎 [LooksMax AI](looksmax.ai) - Find out how hot you are using AI
@@ -550,14 +550,14 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 ## Learning resources
 
 - 🌎 [Learn Prompting](learnprompting.org/) - A free, open-source course on communicating with artificial intelligence.
-- <b><code>&nbsp;72768⭐</code></b> <b><code>&nbsp;&nbsp;7800🍴</code></b> [Prompt Engineering Guide](https://github.com/dair-ai/Prompt-Engineering-Guide)) - Guide and resources for prompt engineering.
+- <b><code>&nbsp;71708⭐</code></b> <b><code>&nbsp;&nbsp;7660🍴</code></b> [Prompt Engineering Guide](https://github.com/dair-ai/Prompt-Engineering-Guide)) - Guide and resources for prompt engineering.
 - 🌎 [ChatGPT prompt engineering for developers](www.deeplearning.ai/short-courses/chatgpt-prompt-engineering-for-developers/) - A short course by Isa Fulford (OpenAI) and Andrew Ng (DeepLearning.AI).
-- <b><code>&nbsp;72562⭐</code></b> <b><code>&nbsp;12250🍴</code></b> [OpenAI Cookbook](https://github.com/openai/openai-cookbook)) - Examples and guides for using the OpenAI API.
+- <b><code>&nbsp;72138⭐</code></b> <b><code>&nbsp;12156🍴</code></b> [OpenAI Cookbook](https://github.com/openai/openai-cookbook)) - Examples and guides for using the OpenAI API.
 - 🌎 [Robert Miles AI Safety](www.youtube.com/@RobertMilesAI) - Youtube channel about AI safety
 
 ## Learn AI free
 ### Machine Learning
-- <b><code>&nbsp;&nbsp;7832⭐</code></b> <b><code>&nbsp;&nbsp;1174🍴</code></b> [Roadmap](https://github.com/mrdbourke/machine-learning-roadmap)) - A roadmap connecting many of the most important concepts in machine learning, how to learn them, and what tools to use to perform them.
+- <b><code>&nbsp;&nbsp;7800⭐</code></b> <b><code>&nbsp;&nbsp;1174🍴</code></b> [Roadmap](https://github.com/mrdbourke/machine-learning-roadmap)) - A roadmap connecting many of the most important concepts in machine learning, how to learn them, and what tools to use to perform them.
 - 🌎 [Andrew Ng’s Machine Learning at Stanford University](www.coursera.org/learn/machine-learning) -  Ng’s gentle introduction to machine learning course is perfect for engineers who want a foundational overview of key concepts in the field.
 - 🌎 [Sebastian Thrun’s Introduction To Machine Learning](www.udacity.com/course/intro-to-machine-learning--ud120) - robust introduction to the subject and also the foundation for a Data Analyst “nanodegree” certification sponsored by Facebook and MongoDB.
 - 🌎 [AI and Machine Learning Roadmaps](www.scaler.com/blog/category/artificial-intelligence-machine-learning/) - Roadmaps featuring essential concepts, learning methods, and the tools to put them into practice.
@@ -578,20 +578,20 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 
 - 🌎 [Altern](altern.ai) - Find Best AI Tools
 - 🌎 [AI For Developers](aifordevelopers.org) - List of AI DevTools
-- <b><code>&nbsp;&nbsp;&nbsp;592⭐</code></b> <b><code>&nbsp;&nbsp;&nbsp;&nbsp;71🍴</code></b> [Best of AI](https://github.com/best-of-ai/best-of-ai)) - Like Michelin Guide for AI
+- <b><code>&nbsp;&nbsp;&nbsp;586⭐</code></b> <b><code>&nbsp;&nbsp;&nbsp;&nbsp;69🍴</code></b> [Best of AI](https://github.com/best-of-ai/best-of-ai)) - Like Michelin Guide for AI
 - <b><code>&nbsp;&nbsp;&nbsp;136⭐</code></b> <b><code>&nbsp;&nbsp;&nbsp;&nbsp;15🍴</code></b> [Awesome AI Models](https://github.com/dariubs/awesome-ai-models)) - A curated list of top AI models and LLMs
-- <b><code>&nbsp;&nbsp;1604⭐</code></b> <b><code>&nbsp;&nbsp;&nbsp;259🍴</code></b> [Awesome AI Coding Tools](https://github.com/ai-for-developers/awesome-ai-coding-tools)) - Curated list of AI-powered developer tools.
+- <b><code>&nbsp;&nbsp;1574⭐</code></b> <b><code>&nbsp;&nbsp;&nbsp;215🍴</code></b> [Awesome AI Coding Tools](https://github.com/ai-for-developers/awesome-ai-coding-tools)) - Curated list of AI-powered developer tools.
 - [Awesome Vibe Coding](http://github.com/dariubs/awesome-vibe-coding) - A hand-picked collection of tools and resources for Vibe Coding.
 - 🌎 [There's An AI](theresanai.com) - Frontpage of AI
-- <b><code>&nbsp;&nbsp;&nbsp;&nbsp;72⭐</code></b> <b><code>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;5🍴</code></b> [Awesome AI Books](https://github.com/mahseema/aibooks)) - Curated List of Top AI and ML Books
+- <b><code>&nbsp;&nbsp;&nbsp;&nbsp;67⭐</code></b> <b><code>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;4🍴</code></b> [Awesome AI Books](https://github.com/mahseema/aibooks)) - Curated List of Top AI and ML Books
 - 🌎 [AI for Productivity](productivity.directory/category/ai) - Curated List of AI Apps for productivity
 - 🌎 [Workflow Automation Softwares](productivity.directory/category/workflow-automation) - Curated List of Workflow Automation Apps And Tools
-- <b><code>&nbsp;&nbsp;&nbsp;890⭐</code></b> <b><code>&nbsp;&nbsp;&nbsp;135🍴</code></b> [Awesome Workflow Automation](https://github.com/dariubs/awesome-workflow-automation)) - Curated List of Workflow Automation Apps And Tools
-- <b><code>&nbsp;&nbsp;&nbsp;270⭐</code></b> <b><code>&nbsp;&nbsp;&nbsp;&nbsp;72🍴</code></b> [Awesome Marketing](https://github.com/marketingtoolslist/awesome-marketing))
-- <b><code>&nbsp;&nbsp;&nbsp;768⭐</code></b> <b><code>&nbsp;&nbsp;&nbsp;377🍴</code></b> [Top AI Directories](https://github.com/best-of-ai/ai-directories)) - An awesome list of best top AI directories to submit your ai tools
+- <b><code>&nbsp;&nbsp;&nbsp;859⭐</code></b> <b><code>&nbsp;&nbsp;&nbsp;125🍴</code></b> [Awesome Workflow Automation](https://github.com/dariubs/awesome-workflow-automation)) - Curated List of Workflow Automation Apps And Tools
+- <b><code>&nbsp;&nbsp;&nbsp;259⭐</code></b> <b><code>&nbsp;&nbsp;&nbsp;&nbsp;62🍴</code></b> [Awesome Marketing](https://github.com/marketingtoolslist/awesome-marketing))
+- <b><code>&nbsp;&nbsp;&nbsp;747⭐</code></b> <b><code>&nbsp;&nbsp;&nbsp;362🍴</code></b> [Top AI Directories](https://github.com/best-of-ai/ai-directories)) - An awesome list of best top AI directories to submit your ai tools
 
 
 created by [Mahsima Dastan](https://github.com/mahseema)
 
 ## Source
-<b><code>&nbsp;&nbsp;4717⭐</code></b> <b><code>&nbsp;&nbsp;1260🍴</code></b> [mahseema/awesome-ai-tools](https://github.com/mahseema/awesome-ai-tools))
+<b><code>&nbsp;&nbsp;4593⭐</code></b> <b><code>&nbsp;&nbsp;1112🍴</code></b> [mahseema/awesome-ai-tools](https://github.com/mahseema/awesome-ai-tools))
