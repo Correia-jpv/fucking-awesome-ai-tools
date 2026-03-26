@@ -402,6 +402,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - 🌎 [Based AI](www.basedlabs.ai/) - AI Intuitive Interface for Video creating
 - 🌎 [klingai](app.klingai.com/global/) - AI creative studio boasts AI image and video generation capabilities.
 - 🌎 [Sisif](sisif.ai/) - AI Video Generator: Turn Text into Stunning Videos in Seconds
+- 🌎 [PVID](pvid.app/) - Free AI Video Generator aggregating Kling 3.0, Sora 2, Veo 3.1, with image-to-video, text-to-video, video-to-video support and 100 free credits for new users.
 
 
 ### Animation
