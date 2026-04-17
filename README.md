@@ -153,6 +153,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - 🌎 [Cosmos](meetcosmos.com/) - Use AI locally and offline to search your media files by their content, find similar images or video scenes using reference images, and transcribe video.
 - 🌎 [aiPDF](aipdf.ai) - The most advanced AI document assistant
 - 🌎 [Summary With AI](www.summarywithai.com/) - Summarize any long PDF with AI. Comprehensive summaries using information from all pages of a document.
+- 🌎 [MindMap AI](https://mindmapai.app/text-summarizer) - AI-powered tool that converts documents, PDFs, and research into structured visual mind maps for idea organization and productivity
 - 🌎 [Emilio](getemil.io?ref=mahseema-awesome-ai-tools) - Stop drowning in emails - Emilio prioritizes and automates your email, saving 60% of your time
 - 🌎 [Pieces](pieces.app/) - AI-enabled productivity tool designed to supercharge developer efficiency,with an on-device copilot that helps capture, enrich, and reuse useful materials, streamline collaboration, and solve complex problems through a contextual understanding of dev workflow
 - 🌎 [Huntr AI Resume Builder](huntr.co/product/ai-resume-builder/?ref=mahseema-awesome-ai-tools) - Craft the perfect resume, with a little help from AI. Huntr’s customizable AI Resume Builder will help you craft a well-written, ATS-friendly resume to help you land more interviews.
