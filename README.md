@@ -344,6 +344,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - 🌎 [VectorArt.ai](vectorart.ai) - Create vector images with AI.
 - 🌎 [StockPhotoAI.net](www.stockphotoai.net/?ref=mahseema-awesome-ai-tools) - Great stock photos, made for you.
 - 🌎 [Room Reinvented](roomreinvented.com) - Transform your room effortlessly with Room Reinvented! Upload a photo and let AI create over 30 stunning interior styles. Elevate your space today.
+- 🌎 [LandscapioAI](https://www.landscapioai.com/) - AI landscape design generator that turns yard photos into outdoor design concepts and planning inspiration.
 - 🌎 [Gensbot](gensbot.com) - Gensbot uses AI to craft personalised printed merchandise. One prompt creates one unique product to fit your needs.
 - 🌎 [PlantPhotoAI](www.plantphotoai.com/) - free AI-generated plant images
 - 🌎 [RepublicLabs.AI](republiclabs.ai/) - multi-model simultaneous generation from a single prompt, fully unrestricted and packed with the latest greatest AI models.
