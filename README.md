@@ -334,6 +334,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - 🌎 [Pixelz AI Art Generator](pixelz.ai/) - Pixelz AI Art Generator enables you to create incredible art from text. Stable Diffusion, CLIP Guided Diffusion & PXL·E realistic algorithms available.
 - 🌎 [modyfi](www.modyfi.io/) - The image editor you've always wanted. AI-powered creative tools in your browser. Real-time collaboration.
 - 🌎 [Ponzu](www.ponzu.ai/) - Ponzu is your free AI logo generator. Build your brand with creatively designed logos in seconds, using only your imagination.
+- 🌎 [PhotoRestore.ai](photorestore.ai) - AI-powered restoration of old and damaged photos — repairs scratches, fading, tears, and colorizes black-and-white images.
 - 🌎 [PhotoRoom](www.photoroom.com/) - Create product and portrait pictures using only your phone. Remove background, change background and showcase products.
 - 🌎 [PhotoGuruAI](photoguruai.com/) - Create professional AI Headshots in various styles.
 - 🌎 [Avatar AI](avatarai.me/) - Create your own AI-generated avatars.
