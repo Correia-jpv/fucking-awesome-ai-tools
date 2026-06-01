@@ -211,6 +211,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - 🌎 [SciSpace](scispace.com/) - AI Chat for scientific PDFs.
 - 🌎 [NotebookLM](notebooklm.google.com/) - AI Chat on your own document, link and text resources.
 - 🌎 [Mathos AI](www.mathgptpro.com/) - Best AI math solver, calculator & tutor.
+- 🌎 [Citely](https://citely.ai/) - AI citation checker and academic source finder for verifying references and claims.
 
 ### Customer Support
 - 🌎 [SiteGPT](sitegpt.ai/?ref=mahseema-awesome-ai-tools) - Make AI your expert customer support agent.
