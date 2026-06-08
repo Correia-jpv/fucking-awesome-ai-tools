@@ -146,6 +146,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - 🌎 [Taskade](www.taskade.com/) -  Build, train, and deploy autonomous AI agents for task management, team collaboration, and workflow automation—all within a unified workspace.
 - 🌎 [Notion AI](www.notion.so/product/ai) - Write better, more efficient notes and docs.
 - 🌎 [Nekton AI](nekton.ai) - Automate your workflows with AI. Describe your workflows step by step in plain language.
+- 🌎 [AI for Database](aifordatabase.com) - Connect to any database (PostgreSQL, MySQL, MongoDB) and query it in plain English. No SQL needed — get instant insights, build self-refreshing dashboards, and trigger automated workflows based on database changes.
 - 🌎 [Elephas](elephas.app/?ref=mahseema-awesome-ai-tools) - Personal AI writing assistant for the Mac.
 - 🌎 [Lemmy](lemmy.co/?ref=mahseema-awesome-ai-tools) - Autonomous AI Assistant for Work.
 - 🌎 [Google Sheets Formula Generator](bettersheets.co/google-sheets-formula-generator?ref=mahseema-awesome-ai-tools) - Forget about frustrating formulas in Google Sheets.
