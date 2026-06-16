@@ -323,6 +323,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 
 - 🌎 [Craiyon](www.craiyon.com/) - Craiyon, formerly DALL-E mini, is an AI model that can draw images from any text prompt.
 - 🌎 [DreamStudio](beta.dreamstudio.ai/) - DreamStudio is an easy-to-use interface for creating images using the Stable Diffusion image generation model.
+- 🌎 [Seedream AI Studio](seedream4.video/) - Multi-model AI image generation platform powered by ByteDance Seedream 5.0/4.5/4.0, ranked #1 in AI Image Arena. Supports up to 10 reference images and one-click video generation via Kling 2.1. Free tier available.
 - 🌎 [Artbreeder](www.artbreeder.com/) - Artbreeder is a new type of creative tool that empowers users creativity by making it easier to collaborate and explore.
 - [GauGAN2](http://gaugan.org/gaugan2/) - GauGAN2 is a robust tool for creating photorealistic art using a combination of words and drawings since it integrates segmentation mapping, inpainting, and text-to-image production in a single model.
 - 🌎 [Magic Eraser](www.magiceraser.io/) - Remove unwanted things from images in seconds.
