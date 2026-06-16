@@ -1,4 +1,4 @@
-# ‌Best AI Tools for Marketing 
+# ‌Best AI Tools for Marketing
 
 A curated list of AI tools designed to enhance marketing strategies, automate tasks, and optimize performance.
 
