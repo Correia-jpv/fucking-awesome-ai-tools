@@ -270,6 +270,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - 🌎 [Codeflash](www.codeflash.ai/) - Ship Blazing-Fast Python Code — Every Time.
 - 🌎 [Rysa AI](www.rysa.ai) - AI GTM Automation Agent
 - 🌎 [Agenta](agenta.ai/) - Open-source LLMOps platform for prompt management, LLM evaluation, and observability. Build, evaluate, and monitor production-grade LLM applications. <b><code>&nbsp;&nbsp;4202⭐</code></b> <b><code>&nbsp;&nbsp;&nbsp;547🍴</code></b> [#opensource](https://github.com/agenta-ai/agenta))
+- [Future AGI](https://github.com/future-agi/future-agi) - Open-source platform to evaluate, trace, and guardrail LLM and AI agent apps, with 70+ built-in evals, agent simulation, and an LLM gateway. Self-hostable.
 
 
 ## Code
