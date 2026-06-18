@@ -282,6 +282,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - [Amazon Q Developer] 🌎 [https://aws.amazon.com/codewhisperer/](aws.amazon.com/q/developer/build/?trk=fd6bb27a-13b0-4286-8269-c7b1cfaa29f0&sc_channel=el)) - AI coding assistant with extensions for IDEs such as VS Code and IntelliJ IDEA that provides both chat and agentic workflows.
 - 🌎 [Amazon CodeWhisperer](aws.amazon.com/codewhisperer/) - Build applications faster with the ML-powered coding companion.
 - 🌎 [tabnine](www.tabnine.com/) - Code faster with whole-line & full-function code completions.
+- 🌎 [Roblox GUI Maker](https://robloxguimaker.dev/) - Generate Roblox Studio GUI layouts and Lua starter code from prompts for faster game UI prototyping.
 - 🌎 [Stenography](stenography.dev/) - Automatic code documentation.
 - 🌎 [Mintlify](mintlify.com/) - AI powered documentation writer.
 - 🌎 [Debuild](debuild.app/) - AI-powered low-code tool for web apps.
