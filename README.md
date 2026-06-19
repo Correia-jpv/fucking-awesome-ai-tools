@@ -464,6 +464,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - * 🌎 [PersonaForce](personaforce.ai/)** - Create and chat with AI buyer personas for smarter marketing
 - * 🌎 [Publish7](publish7.com/)** -AI Agents to revolutionize digital marketing for Retail and E-commerce success.
 - * 🌎 [Keyla.AI](keyla.ai/)** - Create video ads in minutes
+- <b><code>&nbsp;&nbsp;2924⭐</code></b> <b><code>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;?🍴</code></b> [NotFair](https://github.com/nowork-studio/NotFair)) - Open-source Claude Code skills for SEO, GEO, Google Ads, and Meta Ads, connecting to Google Ads MCP, Meta Ads MCP, Google Search Console MCP, and Google Analytics (GA4) MCP. #opensource
 
 
 ### Phone Calls
