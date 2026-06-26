@@ -280,6 +280,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - 🌎 [Ghostwriter](blog.replit.com/ai) - An AI-powered pair programmer by Replit.
 - 🌎 [GoCodeo](www.gocodeo.com/)- An AI Coding & Testing Agent.
 - [Amazon Q Developer] 🌎 [https://aws.amazon.com/codewhisperer/](aws.amazon.com/q/developer/build/?trk=fd6bb27a-13b0-4286-8269-c7b1cfaa29f0&sc_channel=el)) - AI coding assistant with extensions for IDEs such as VS Code and IntelliJ IDEA that provides both chat and agentic workflows.
+[Auferet](https://auferet.com) - AI game master with persistent memory for your characters and uploaded lore; solo or multiplayer, with 5e and Pathfinder 2e modes.
 - 🌎 [Amazon CodeWhisperer](aws.amazon.com/codewhisperer/) - Build applications faster with the ML-powered coding companion.
 - 🌎 [tabnine](www.tabnine.com/) - Code faster with whole-line & full-function code completions.
 - 🌎 [Stenography](stenography.dev/) - Automatic code documentation.
