@@ -464,6 +464,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - * 🌎 [PersonaForce](personaforce.ai/)** - Create and chat with AI buyer personas for smarter marketing
 - * 🌎 [Publish7](publish7.com/)** -AI Agents to revolutionize digital marketing for Retail and E-commerce success.
 - * 🌎 [Keyla.AI](keyla.ai/)** - Create video ads in minutes
+- * 🌎 [AnswerLens](https://app.sfdj.net/)** - Audits B2B SaaS public website evidence for pricing, proof, docs, comparison, trust, schema, and llms.txt gaps.
 
 
 ### Phone Calls
