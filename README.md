@@ -260,6 +260,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - 🌎 [Calmo](getcalmo.com/) - Debug Production x10 Faster with AI.
 - 🌎 [Cleanlab](help.cleanlab.ai/tlm/) - Detect and remediate hallucinations in any LLM application.
 - 🌎 [Amazon Q Developer CLI](docs.aws.amazon.com/amazonq/latest/qdeveloper-ug/command-line.html?trk=fd6bb27a-13b0-4286-8269-c7b1cfaa29f0&sc_channel=el) - CLI that provides command completion, command translation using generative AI to translate intent to commands, and a full agentic chat interface with context management that helps you write code.
+- 🌎 [Tree Ring Memory](github.com/TerminallyLazy/Tree-Ring-Memory) - Local-first memory lifecycle framework for AI agents with Rust CLI/TUI, SQLite/FTS recall, audit trails, forgetting, and consolidation.
 - <b><code>&nbsp;&nbsp;&nbsp;994⭐</code></b> <b><code>&nbsp;&nbsp;&nbsp;137🍴</code></b> [Agentic Radar](https://github.com/splx-ai/agentic-radar)) - Open-source CLI security scanner for agentic workflows.
 - <b><code>&nbsp;&nbsp;9978⭐</code></b> <b><code>&nbsp;&nbsp;1036🍴</code></b> [VoltAgent](https://github.com/voltagent/voltagent)) - A TypeScript framework for building and running AI agents with tools, memory, and visibility.
 - <b><code>&nbsp;&nbsp;1979⭐</code></b> <b><code>&nbsp;&nbsp;&nbsp;184🍴</code></b> [Notte](https://github.com/nottelabs/notte)) - Notte is the fastest, most reliable Browser Using Agents framework
