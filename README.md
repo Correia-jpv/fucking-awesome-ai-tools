@@ -582,6 +582,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - <b><code>&nbsp;&nbsp;&nbsp;143⭐</code></b> <b><code>&nbsp;&nbsp;&nbsp;&nbsp;18🍴</code></b> [Awesome AI Models](https://github.com/dariubs/awesome-ai-models)) - A curated list of top AI models and LLMs
 - <b><code>&nbsp;&nbsp;1892⭐</code></b> <b><code>&nbsp;&nbsp;&nbsp;510🍴</code></b> [Awesome AI Coding Tools](https://github.com/ai-for-developers/awesome-ai-coding-tools)) - Curated list of AI-powered developer tools.
 - [Awesome Vibe Coding](http://github.com/dariubs/awesome-vibe-coding) - A hand-picked collection of tools and resources for Vibe Coding.
+- [BidSharp](https://bidsharp.io/) - AI-powered proposal intelligence platform with automated critiques, risk scanners, and pricing calculators.
 - 🌎 [There's An AI](theresanai.com) - Frontpage of AI
 - <b><code>&nbsp;&nbsp;&nbsp;&nbsp;83⭐</code></b> <b><code>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;7🍴</code></b> [Awesome AI Books](https://github.com/mahseema/aibooks)) - Curated List of Top AI and ML Books
 - 🌎 [AI for Productivity](productivity.directory/category/ai) - Curated List of AI Apps for productivity
