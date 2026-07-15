@@ -270,6 +270,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - 🌎 [Codeflash](www.codeflash.ai/) - Ship Blazing-Fast Python Code — Every Time.
 - 🌎 [Rysa AI](www.rysa.ai) - AI GTM Automation Agent
 - 🌎 [Agenta](agenta.ai/) - Open-source LLMOps platform for prompt management, LLM evaluation, and observability. Build, evaluate, and monitor production-grade LLM applications. <b><code>&nbsp;&nbsp;4290⭐</code></b> <b><code>&nbsp;&nbsp;&nbsp;567🍴</code></b> [#opensource](https://github.com/agenta-ai/agenta))
+- [Open Agent Relay](https://github.com/ShakespeareLabs/open-agent-relay) - Open-source CLI for sharing local agent capabilities over a trusted LAN while keeping code, prompts, and credentials on the host.
 
 
 ## Code
