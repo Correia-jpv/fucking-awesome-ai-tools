@@ -461,9 +461,11 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - * 🌎 [Chatfuel](www.chatfuel.com/)** - AI-driven chatbot for automating customer engagement on Messenger.
 - * 🌎 [LogicBalls](logicballs.com/)** - An AI-powered writing tool to create any type of content and supercharge your productivity.
 - * 🌎 [Rupert AI](www.getrupert.com/)** - AI tools for designers and marketers
-- * 🌎 [PersonaForce](personaforce.ai/)** - Create and chat with AI buyer personas for smarter marketing
-- * 🌎 [Publish7](publish7.com/)** -AI Agents to revolutionize digital marketing for Retail and E-commerce success.
-- * 🌎 [Keyla.AI](keyla.ai/)** - Create video ads in minutes
+- * 🌎 [Publish7](https://publish7.com/)** -AI Agents to revolutionize digital marketing for Retail and E-commerce success.
+- * 🌎 [Keyla.AI](https://keyla.ai/)** - Create video ads in minutes
+- * 🌎 [Xquik](https://docs.xquik.com/)** - X automation platform with a REST API, MCP tools, and webhooks for X workflows.
+
+Xquik is an independent third-party service. Not affiliated with X Corp. "Twitter" and "X" are trademarks of X Corp.
 
 
 ### Phone Calls
