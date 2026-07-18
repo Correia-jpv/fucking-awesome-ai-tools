@@ -1,4 +1,4 @@
-# ‌Best AI Tools for Marketing
+# ‌Best AI Tools for Marketing 
 
 A curated list of AI tools designed to enhance marketing strategies, automate tasks, and optimize performance.
 
@@ -63,7 +63,7 @@ Xquik is an independent third-party service. Not affiliated with X Corp. "Twitte
 - **[Domo](https://www.domo.com/)** - AI analytics platform that offers real-time insights and data visualization for marketing performance.
 - **[Brandwatch](https://www.brandwatch.com/)** - AI-driven consumer insights platform for social media listening and market research.
 - **[Talkwalker](https://www.talkwalker.com/)** - Provides AI-powered marketing analytics, social media monitoring, and brand sentiment analysis.
-- **[Capalyze](https://capalyze.ai/)** - Capalyze is the only AI that lets you capture web data across platforms, run sentiment analysis, and automate it all - through natural language.
+- **[Capalyze](https://capalyze.ai/)** - Capalyze is the only AI that lets you capture web data across platforms, run sentiment analysis, and automate it all — through natural language.
 
 ## GEO (Generative Engine Optimization)
  **[GetBool AI](https://www.getbool.ai/)** - AI tool that helps marketers improve their brand visibility wihtin LLMs, by using high-quality content, high quality mentions and links, reviews, etc...
@@ -85,3 +85,4 @@ Xquik is an independent third-party service. Not affiliated with X Corp. "Twitte
 ## Contributing
 
 Contributions are welcome! Please follow the [guidelines](CONTRIBUTING.md) for adding new tools or improving descriptions.
+
