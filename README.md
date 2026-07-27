@@ -545,6 +545,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - 🌎 [Daruy](daruy.space/) - Personalized Gift Idea Generator
 - 🌎 [Promptly](searchpromptly.com/) - Discover, create and share powerful prompts
 - 🌎 [Melies](melies.co) - AI Filmmaking software
+- 🌎 [GPTGeminiGrok.AI](https://trygrokai.asia/) - Browser workspace for GPT, Gemini, Grok, Claude and AI image workflows.
 
 
 ## Learning resources
