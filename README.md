@@ -321,6 +321,8 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 
 ### Services
 
+- 🌎 [Image Describer](https://imagedescriber.dev) - Describe images, generate captions and prompts, extract OCR text, and create accessible alt text with AI.
+- 🌎 [Blur Background](https://blurbackground.vip) - Blur distracting photo backgrounds in the browser and download the edited image without creating an account.
 - 🌎 [Craiyon](www.craiyon.com/) - Craiyon, formerly DALL-E mini, is an AI model that can draw images from any text prompt.
 - 🌎 [DreamStudio](beta.dreamstudio.ai/) - DreamStudio is an easy-to-use interface for creating images using the Stable Diffusion image generation model.
 - 🌎 [Artbreeder](www.artbreeder.com/) - Artbreeder is a new type of creative tool that empowers users creativity by making it easier to collaborate and explore.
@@ -391,6 +393,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 
 ## Video
 
+- 🌎 [Video Upscaler](https://videoupscaler.video) - Upscale video resolution, restore detail, and reduce visible noise with AI-assisted enhancement.
 - 🌎 [RunwayML](runwayml.com/) - Magical AI tools, realtime collaboration, precision editing, and more. Your next-generation content creation suite.
 - 🌎 [Synthesia](www.synthesia.io/) - Create videos from plain text in minutes.
 - 🌎 [Rephrase AI](www.rephrase.ai/) - Rephrase's technology enables hyper-personalized video creation at scale that drive engagement and business efficiencies.
@@ -494,6 +497,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 
 ## Other
 
+- 🌎 [Vedic Astrology Chart](https://vedicastrologychart.net) - Create sidereal birth charts and explore AI-assisted interpretations of planetary placements and houses.
 - 🌎 [Taranify](www.taranify.com) - Using AI, Taranify finds you Spotify playlists, Netflix shows, Books & Foods you'd enjoy when you don't exactly know what you want. 
 - 🌎 [Diagram](diagram.com/) - Magical new ways to design products.
 - 🌎 [PromptBase](promptbase.com/) - A marketplace for buying and selling quality prompts for DALL·E, GPT-3, Midjourney, Stable Diffusion.
