@@ -91,6 +91,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 
 *For a more complete list of AI writing assistants visit: <b><code>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;?⭐</code></b> <b><code>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;?🍴</code></b> [Awesome AI Writing](https://github.com/xaramore/awesome-ai-writing))*
 
+- <b><code>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;?⭐</code></b> <b><code>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;?🍴</code></b> [Humanize-Text](https://github.com/lynote-ai/humanize-text) - Open-source Python toolkit for multi-stage rewriting of AI-assisted drafts.
 - 🌎 [Jasper](www.jasper.ai/) - Create content faster with artificial intelligence.
 - 🌎 [Compose AI](www.compose.ai/) - Compose AI is a free Chrome extension that cuts your writing time by 40% with AI-powered autocompletion.
 - 🌎 [Rytr](rytr.me/) - Rytr is an AI writing assistant that helps you create high-quality content.
