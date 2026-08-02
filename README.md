@@ -464,6 +464,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - * 🌎 [PersonaForce](personaforce.ai/)** - Create and chat with AI buyer personas for smarter marketing
 - * 🌎 [Publish7](publish7.com/)** -AI Agents to revolutionize digital marketing for Retail and E-commerce success.
 - * 🌎 [Keyla.AI](keyla.ai/)** - Create video ads in minutes
+- * 🌎 [ListingAI](lijustin655.github.io/f1-listingai/)** - Free AI listing generator for Amazon & TikTok Shop sellers; optimized title, bullets, and description in 30 seconds.
 
 
 ### Phone Calls
