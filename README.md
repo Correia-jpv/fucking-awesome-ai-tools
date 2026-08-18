@@ -457,6 +457,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - * 🌎 [Adzooma](www.adzooma.com/)** - AI-powered PPC campaign management platform.
 - * 🌎 [Phrasee](www.phrasee.co/)** - AI tool that generates optimized marketing copy.
 - * 🌎 [Crimson Hexagon](www.crimsonhexagon.com/)** - AI-based social media sentiment analysis platform.
+- * 🌎 [Xquik](https://docs.xquik.com/)** - X (Twitter) data API for tweet search, follower exports, monitoring, webhooks, and MCP tooling.
 - * 🌎 [MarketMuse](www.marketmuse.com/)** - SEO content optimization platform using AI.
 - * 🌎 [Chatfuel](www.chatfuel.com/)** - AI-driven chatbot for automating customer engagement on Messenger.
 - * 🌎 [LogicBalls](logicballs.com/)** - An AI-powered writing tool to create any type of content and supercharge your productivity.
@@ -464,6 +465,8 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - * 🌎 [PersonaForce](personaforce.ai/)** - Create and chat with AI buyer personas for smarter marketing
 - * 🌎 [Publish7](publish7.com/)** -AI Agents to revolutionize digital marketing for Retail and E-commerce success.
 - * 🌎 [Keyla.AI](keyla.ai/)** - Create video ads in minutes
+
+Xquik is an independent third-party service. Not affiliated with X Corp. "Twitter" and "X" are trademarks of X Corp.
 
 
 ### Phone Calls
