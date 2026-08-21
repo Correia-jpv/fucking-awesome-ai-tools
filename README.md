@@ -402,6 +402,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - 🌎 [Based AI](www.basedlabs.ai/) - AI Intuitive Interface for Video creating
 - 🌎 [klingai](app.klingai.com/global/) - AI creative studio boasts AI image and video generation capabilities.
 - 🌎 [Sisif](sisif.ai/) - AI Video Generator: Turn Text into Stunning Videos in Seconds
+- 🌎 [SEELE TV](https://seele.tv/) - Browser-based AI video creation studio.
 
 
 ### Animation
