@@ -145,6 +145,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - 🌎 [Mem](mem.ai/) - Mem is the world's first AI-powered workspace that's personalized to you. Amplify your creativity, automate the mundane, and stay organized automatically.
 - 🌎 [Taskade](www.taskade.com/) -  Build, train, and deploy autonomous AI agents for task management, team collaboration, and workflow automation—all within a unified workspace.
 - 🌎 [Notion AI](www.notion.so/product/ai) - Write better, more efficient notes and docs.
+- 🌎 [BrandQuill](https://brandquill.app/) - Turn AI drafts into branded Word documents using a reusable DOCX template.
 - 🌎 [Nekton AI](nekton.ai) - Automate your workflows with AI. Describe your workflows step by step in plain language.
 - 🌎 [Elephas](elephas.app/?ref=mahseema-awesome-ai-tools) - Personal AI writing assistant for the Mac.
 - 🌎 [Lemmy](lemmy.co/?ref=mahseema-awesome-ai-tools) - Autonomous AI Assistant for Work.
