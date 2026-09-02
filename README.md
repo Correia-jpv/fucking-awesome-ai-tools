@@ -450,6 +450,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 *You can also find  more comprehensive list on *[Marketing List](https://github.com/correia-jpv/fucking-awesome-ai-tools/blob/main/marketing.md)*
 
 - * 🌎 [Jasper AI](www.jasper.ai/)** - AI-powered tool for generating marketing content like blogs, emails, and ad copy.
+- * 🌎 [BulkPublish](https://www.bulkpublish.com/)** - AI-agent API and MCP server for multi-platform social publishing.
 - * 🌎 [Mutiny](www.mutinyhq.com/)** - Personalization platform to improve website conversions using AI.
 - * 🌎 [Clearbit](clearbit.com/)** - Lead enrichment and data intelligence platform.
 - * 🌎 [Seventh Sense](www.theseventhsense.com/)** - AI tool for email send time optimization.
