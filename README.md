@@ -545,6 +545,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - 🌎 [Daruy](daruy.space/) - Personalized Gift Idea Generator
 - 🌎 [Promptly](searchpromptly.com/) - Discover, create and share powerful prompts
 - 🌎 [Melies](melies.co) - AI Filmmaking software
+- 🌎 [Solgrok](lmajster.github.io/sgrok/) - Autonomous Solana creator-ops AI agent ($SGROK on Bags) that runs 24/7 promo + fee ops.
 
 
 ## Learning resources
