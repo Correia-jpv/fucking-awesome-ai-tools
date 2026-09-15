@@ -568,6 +568,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - 🌎 [Jeremy Howard’s Fast.ai & Data Institute Certificates](www.fast.ai/) - The in-person certificate courses are not free, but all of the content is available on Fast.ai as MOOCs.
 - <b><code>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1⭐</code></b> <b><code>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;0🍴</code></b> [coursera-deep-learning-specialization](https://github.com/pratham5368/coursera-deep-learning-specialization)) - Notes, programming assignments and quizzes from all courses within the Coursera Deep Learning specialization offered by deeplearning.ai
 - <b><code>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2⭐</code></b> <b><code>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1🍴</code></b> [tensorflow](https://github.com/pratham5368/Tecnologies-I-Learn/tree/main/31-pytorch)) - all important notes to learn pytorch with all the examples in google colab
+- [HostDeFi](https://hostdefi.com) — free token-safety scanner grading tokens A+–F from on-chain checks (mint/freeze authority, liquidity, holder concentration) across Solana + 7 EVM chains. Keyless REST API, hosted MCP, x402 endpoints.
 
 ## NVIDIA Platform Extensions
 
