@@ -10,6 +10,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 
 ## Contents
 
+- [MagicKit](https://magickit.47.80.8.174.nip.io) — **Free AI toolbox** for image generation (FLUX), text and video. No sign-up, no API key. MIT licensed. [Source](https://github.com/kaketiti/magickit)
 - [🌟 Editor's Choice](#editors-choice)
 - [📝 AI Text](#text)
 - [👩‍💻 Code with AI](#code)
