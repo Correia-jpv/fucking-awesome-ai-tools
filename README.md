@@ -401,6 +401,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - 🌎 [Recast Studio](recast.studio) - AI powered podcast marketing assistant.
 - 🌎 [Based AI](www.basedlabs.ai/) - AI Intuitive Interface for Video creating
 - 🌎 [klingai](app.klingai.com/global/) - AI creative studio boasts AI image and video generation capabilities.
+- 🌎 [Magic Hour](https://magichour.ai/) - AI video creation platform for generating and editing videos, images, and audio.
 - 🌎 [Sisif](sisif.ai/) - AI Video Generator: Turn Text into Stunning Videos in Seconds
 
 
