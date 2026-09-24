@@ -245,6 +245,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - 🌎 [Prediction Guard](www.predictionguard.com/) - Seamlessly integrate private, controlled, and compliant Large Language Models (LLM) functionality.
 - 🌎 [Portkey](portkey.ai/) - Full-stack LLMOps platform to monitor, manage, and improve LLM-based apps.
 - 🌎 [OpenAI Downtime Monitor](status.portkey.ai/) - Free tool that tracks API uptime and latencies for various OpenAI models and other LLM providers.
+- 🌎 [NextReset](https://nextreset.ai/) - Independent, source-linked Codex reset history and official AI incident updates, with a browser-local personal timer. Free.
 - 🌎 [ChatWithCloud](chatwithcloud.ai/) - CLI allowing you to interact with AWS Cloud using human language inside your Terminal.
 - 🌎 [SinglebaseCloud](singlebase.cloud) - AI-powered backend platform with Vector DB, DocumentDB, Auth, and more to speed up app development.
 - 🌎 [Maxim AI](www.getmaxim.ai/) - A generative AI evaluation and observability platform, empowering modern AI teams to ship products with quality, reliability, and speed.
