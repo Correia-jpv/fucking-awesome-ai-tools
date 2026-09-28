@@ -314,6 +314,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - 🌎 [DALL·E 2](openai.com/dall-e-2/) - DALL·E 2 by OpenAI is a new AI system that can create realistic images and art from a description in natural language.
 - 🌎 [Stable Diffusion](huggingface.co/CompVis/stable-diffusion-v1-4) - Stable Diffusion by Stability AI is a state-of-the-art text-to-image model that generates images from text. #opensource
 - 🌎 [Midjourney](www.midjourney.com/) - Midjourney is an independent research lab exploring new mediums of thought and expanding the imaginative powers of the human species.
+- 🌎 [Raphael AI](https://raphael.app) - Free online AI image generator and photo editor. Create images from text prompts and edit photos in the browser — no install needed.
 - 🌎 [Imagen](imagen.research.google/) - Imagen by Google is a text-to-image diffusion model with an unprecedented degree of photorealism and a deep level of language understanding.
 - 🌎 [Make-A-Scene](ai.facebook.com/blog/greater-creative-control-for-ai-image-generation/) - Make-A-Scene by Meta is a multimodal generative AI method puts creative control in the hands of people who use it by allowing them to describe and illustrate their vision through both text descriptions and freeform sketches.
 - <b><code>&nbsp;35749⭐</code></b> <b><code>&nbsp;&nbsp;3394🍴</code></b> [DragGAN](https://github.com/XingangPan/DragGAN)) - Drag Your GAN: Interactive Point-based Manipulation on the Generative Image Manifold.
