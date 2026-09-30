@@ -129,6 +129,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - 🌎 [WebChatGPT](chrome.google.com/webstore/detail/webchatgpt-chatgpt-with-i/lpfemeioodjbpieminkklglpmhlngfcn) - Augment your ChatGPT prompts with relevant results from the web.
 - 🌎 [GPT for Sheets and Docs](workspace.google.com/marketplace/app/gpt_for_sheets_and_docs/677318054654) - ChatGPT extension for Google Sheets and Google Docs.
 - 🌎 [YouTube Summary with ChatGPT](chrome.google.com/webstore/detail/youtube-summary-with-chat/nmmicjeknamkfloonkhhcjmomieiodli) - Use ChatGPT to summarize YouTube videos.
+- 🌎 [SummarizAI](summarizai.ink) - Chrome extension for on-page YouTube AI summary, chapters, chat, and Study flashcards (free plan for students).
 - 🌎 [ChatGPT Prompt Genius](chrome.google.com/webstore/detail/chatgpt-prompt-genius/jjdnakkfjnnbbckhifcfchagnpofjffo) - Discover, share, import, and use the best prompts for ChatGPT & save your chat history locally.
 - 🌎 [ChatGPT for Search Engines](chrome.google.com/webstore/detail/chatgpt-for-search-engine/feeonheemodpkdckaljcjogdncpiiban) - Display ChatGPT response alongside Google, Bing, and DuckDuckGo search results.
 - 🌎 [ShareGPT](sharegpt.com/) - Share your ChatGPT conversations and explore conversations shared by others.
