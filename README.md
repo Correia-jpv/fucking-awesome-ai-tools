@@ -11,6 +11,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 ## Contents
 
 - [🌟 Editor's Choice](#editors-choice)
+- - 🌎 [SummarizAI](summarizai.ink) - Chrome extension for on-page YouTube AI summary, chapters, chat, and Study flashcards (free plan for students).
 - [📝 AI Text](#text)
 - [👩‍💻 Code with AI](#code)
 - [🖼️ Generative AI Images ](#image)
