@@ -206,6 +206,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - 🌎 [genei](www.genei.io/) - Summarise academic articles in seconds and save 80% on your research times.
 - 🌎 [Explainpaper](www.explainpaper.com/) - A better way to read academic papers. Upload a paper, highlight confusing text, get an explanation.
 - 🌎 [Galactica](galactica.org/) - A large language model for science. Can summarize academic literature, solve math problems, generate Wiki articles, write scientific code, annotate molecules and proteins, and more. <b><code>&nbsp;&nbsp;2745⭐</code></b> <b><code>&nbsp;&nbsp;&nbsp;268🍴</code></b> [Model API](https://github.com/paperswithcode/galai)).
+- 🌎 [Clarity](https://agent-tools.cloud/services/desktop-o99r0sf-tail935fba-ts-net-sub899) - Base-mainnet x402 research API: free discovery, paid short research reports ($2 USDC) and chat ($0.001 USDC) for external payers.
 - 🌎 [Consensus](consensus.app/search/) - Consensus is a search engine that uses AI to find answers in scientific research.
 - 🌎 [Sourcely](www.sourcely.net/) - Academic Citation Finding Tool with AI
 - 🌎 [SciSpace](scispace.com/) - AI Chat for scientific PDFs.
