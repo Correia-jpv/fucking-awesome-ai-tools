@@ -231,6 +231,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 
 ### Developer tools
 
+- [Agent QA](https://github.com/vostride/agent-qa) - AI-assisted QA agent for natural-language web and mobile regression tests, with persistent test memory, self-healing flows, a CLI, and an MCP server.
 - 🌎 [Ollama](ollama.com/) -  Load and run large LLMs locally to use in your terminal or build your apps.
 - 🌎 [co:here](cohere.ai/) - Cohere provides access to advanced Large Language Models and NLP tools.
 - 🌎 [Haystack](haystack.deepset.ai/) - A framework for building NLP applications (e.g. agents, semantic search, question-answering) with language models.
