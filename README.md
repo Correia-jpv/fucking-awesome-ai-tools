@@ -545,6 +545,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - 🌎 [Daruy](daruy.space/) - Personalized Gift Idea Generator
 - 🌎 [Promptly](searchpromptly.com/) - Discover, create and share powerful prompts
 - 🌎 [Melies](melies.co) - AI Filmmaking software
+- 🌎 [QuietTake](https://noiseremover.site/) - Free browser-local speech-noise cleanup with comparison playback and mono WAV export; up to 50 MB and five minutes per file, without signup or audio upload.
 
 
 ## Learning resources
