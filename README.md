@@ -302,6 +302,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - <b><code>&nbsp;&nbsp;7594⭐</code></b> <b><code>&nbsp;&nbsp;&nbsp;520🍴</code></b> [Manifest](https://github.com/mnfst/manifest)) - An alternative to Supabase for AI Code editors and Vibe Coding tools
 - <b><code>&nbsp;&nbsp;&nbsp;309⭐</code></b> <b><code>&nbsp;&nbsp;&nbsp;&nbsp;46🍴</code></b> [DataPup](https://github.com/DataPupOrg/DataPup)) - Database client with AI-powered query assistance to generate context based queries.
 - <b><code>&nbsp;&nbsp;&nbsp;449⭐</code></b> <b><code>&nbsp;&nbsp;&nbsp;&nbsp;42🍴</code></b> [Gito](https://github.com/Nayjest/Gito)) - AI code reviewer for GitHub Actions or local use, compatible with any LLM and integrated with Jira/Linear.
+- <b><code>&nbsp;&nbsp;&nbsp;&nbsp;50⭐</code></b> <b><code>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;5🍴</code></b> [Frink](https://github.com/benord-labs/frink)) - Desktop-first, open-source (MIT) application for running parallel agents, and multi-step custom workflows triggered by schedules, webhooks or events from tools like Linear and Sentry, across your already-used providers.
 
 
 ## Image
