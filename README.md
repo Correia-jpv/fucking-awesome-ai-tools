@@ -406,6 +406,9 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - 🌎 [Sisif](sisif.ai/) - AI Video Generator: Turn Text into Stunning Videos in Seconds
 
 - 🌎 [GrokVideo Studio](grokvideogenerator.dev) - Independent text-to-video and image-to-video generator; free trial; not affiliated with xAI/X.
+- 🌎 [Alors On Danse Video Maker](alorsondansevideo.com) - Independent AI video maker: turn two portrait photos into a 13-second, 480p two-person studio dance clip. Paid. Not affiliated with rights holders or TikTok; no original song.
+- 🌎 [Bad Times AI](badtimesai.dev) - Independent AI tool that synthesizes dance video effects from photos. Paid from $7.99 one-time. Unofficial; not affiliated with artists or rights holders.
+- 🌎 [I Found You in the Crowd AI](ifoundyouinthecrowdai.com) - Independent AI tool that synthesizes a meet-in-the-crowd video effect from photos. Paid from $7.99. Unofficial; not affiliated with creators, artists, rights holders, or TikTok.
 
 ### Animation
 
