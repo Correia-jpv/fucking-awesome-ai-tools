@@ -357,6 +357,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - 🌎 [PlantTattoosAI](www.planttattoosai.com/) - Plant and flower tattoos designs generator trained on real botanicals.
 
 
+- 🌎 [PromptImage](promptimage.cloud) - Free AI image gallery and multi-model image/video studio with a prompt library; signup credits, no card required.
 
 ### Graphic design
 
@@ -368,6 +369,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - 🌎 [Seede.ai](seede.ai/) - Create a stunning poster in just 1 minute with Seede.
 - 🌎 [Magic Patterns](www.magicpatterns.com/) - AI-based UI builder with Figma export and React code generation.
 
+- 🌎 [TeslaWraps](teslawraps.design) - Browser Tesla Paint Shop wrap designer with 3D preview and PNG export; core editing free, optional AI.
 
 ### Image libraries
 
@@ -403,6 +405,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - 🌎 [klingai](app.klingai.com/global/) - AI creative studio boasts AI image and video generation capabilities.
 - 🌎 [Sisif](sisif.ai/) - AI Video Generator: Turn Text into Stunning Videos in Seconds
 
+- 🌎 [GrokVideo Studio](grokvideogenerator.dev) - Independent text-to-video and image-to-video generator; free trial; not affiliated with xAI/X.
 
 ### Animation
 
