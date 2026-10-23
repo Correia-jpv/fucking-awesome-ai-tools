@@ -59,6 +59,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - 🌎 [Bing Chat](www.bing.com/chat) -  🌎 [reviews](altern.ai/product/bing_chat)* - A conversational AI language model powered by Microsoft Bing.
 - 🌎 [Gemini](gemini.google.com) -  🌎 [reviews](altern.ai/product/gemini)* - An experimental AI chatbot by Google, powered by the LaMDA model.
 - 🌎 [Character.AI](character.ai/) -  🌎 [reviews](altern.ai/product/character-ai)* - Character.AI lets you create characters and chat to them.
+- 🌎 [WSUP AI](wsupai.app/) - *[reviews](#)* - Free AI character chat in the browser — talk to AI characters with no sign up. SFW only.
 - 🌎 [ChatPDF](www.chatpdf.com/) -  🌎 [reviews](altern.ai/product/chatpdf)* - Chat with any PDF.
 - 🌎 [ChatSonic](writesonic.com/chat) -  🌎 [reviews](altern.ai/product/chatsonic)* - An AI-powered assistant that enables text and image creation.
 - 🌎 [Phind](www.phind.com/) -  🌎 [reviews](altern.ai/product/phind)* - Phind is an intelligent search engine and assistant for programmers. Phind is smart enough to proactively ask you questions to clarify its assumptions and to browse the web (or your codebase) when it needs additional context. With our new VS Code extension.
