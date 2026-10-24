@@ -311,6 +311,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 
 ### Models
 
+- 🌎 [artgen](https://artgen.net/en/tools/image-to-pixel-art) - AI art + photo to pixel art, ASCII art and risograph prints in seconds.
 - 🌎 [DALL·E 2](openai.com/dall-e-2/) - DALL·E 2 by OpenAI is a new AI system that can create realistic images and art from a description in natural language.
 - 🌎 [Stable Diffusion](huggingface.co/CompVis/stable-diffusion-v1-4) - Stable Diffusion by Stability AI is a state-of-the-art text-to-image model that generates images from text. #opensource
 - 🌎 [Midjourney](www.midjourney.com/) - Midjourney is an independent research lab exploring new mediums of thought and expanding the imaginative powers of the human species.
