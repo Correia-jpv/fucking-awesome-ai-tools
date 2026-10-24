@@ -276,6 +276,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 
 - <b><code>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;?⭐</code></b> <b><code>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;?🍴</code></b> [GitHub Copilot](https://github.com/features/copilot)) - GitHub Copilot uses the OpenAI Codex to suggest code and entire functions in real-time, right from your editor.
 - <b><code>&nbsp;&nbsp;&nbsp;&nbsp;60⭐</code></b> <b><code>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3🍴</code></b> [poorcoder](https://github.com/vgrichina/poorcoder)) - Lightweight Bash scripts that enhance your terminal coding workflow with web-based AI assistants like Claude or Grok without disrupting your development process.
+- 🌎 [System One API](https://system-one.dev/en/api) - Open AI API gateway — one key and one SDK across many models (honest: SDK stars ≈2).
 - 🌎 [OpenAI Codex](platform.openai.com/docs/guides/code/) - An AI system by OpenAI that translates natural language to code.
 - 🌎 [Ghostwriter](blog.replit.com/ai) - An AI-powered pair programmer by Replit.
 - 🌎 [GoCodeo](www.gocodeo.com/)- An AI Coding & Testing Agent.
