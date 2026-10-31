@@ -577,6 +577,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 ## Related Awesome Lists
 
 - 🌎 [Altern](altern.ai) - Find Best AI Tools
+- 🌎 [MeetNewAI](meetnewai.com) - Find AI tools, AI games, and MCP servers by the job
 - 🌎 [AI For Developers](aifordevelopers.org) - List of AI DevTools
 - <b><code>&nbsp;&nbsp;&nbsp;748⭐</code></b> <b><code>&nbsp;&nbsp;&nbsp;143🍴</code></b> [Best of AI](https://github.com/best-of-ai/best-of-ai)) - Like Michelin Guide for AI
 - <b><code>&nbsp;&nbsp;&nbsp;151⭐</code></b> <b><code>&nbsp;&nbsp;&nbsp;&nbsp;18🍴</code></b> [Awesome AI Models](https://github.com/dariubs/awesome-ai-models)) - A curated list of top AI models and LLMs
