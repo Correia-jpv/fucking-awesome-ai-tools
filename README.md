@@ -192,6 +192,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - 🌎 [X-doc AI](x-doc.ai/) - The most accurate AI translator
 
 
+- 🌎 [Vaneform](vaneform.com/) - Free website traffic checker for monthly visits, trends, and traffic sources.
 ### Meeting assistants
 
 - 🌎 [Otter.ai](otter.ai/) - A meeting assistant that records audio, writes notes, automatically captures slides, and generates summaries.
