@@ -505,6 +505,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - 🌎 [Scenario](www.scenario.com/) - AI-generated gaming assets.
 - <b><code>&nbsp;&nbsp;&nbsp;337⭐</code></b> <b><code>&nbsp;&nbsp;&nbsp;&nbsp;38🍴</code></b> [Teleprompter](https://github.com/danielgross/teleprompter)) - An on-device AI for your meetings that listens to you and makes charismatic quote suggestions.
 - 🌎 [FinChat](finchat.io/) - Using AI, FinChat generates answers to questions about public companies and investors.
+- 🌎 [DisconfirmAI](disconfirmai.com/en) - AI investing research platform that looks for disconfirming evidence before you lock in a thesis.
 - <b><code>&nbsp;10690⭐</code></b> <b><code>&nbsp;&nbsp;&nbsp;654🍴</code></b> [Petals](https://github.com/bigscience-workshop/petals)) - BitTorrent style platform for running AI models in a distributed way.
 - 🌎 [Shotstack Workflows](shotstack.io/product/workflows/) - No-code, automation workflow tool for building Generative AI media applications.
 - 🌎 [Aispect](aispect.io/?ref=mahseema-awesome-ai-tools) - New way to experience events.
