@@ -391,6 +391,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 
 ## Video
 
+- 🌎 [ReelAI](https://tryreelai.com/) - Create short AI videos from photos using preset effects; paid.
 - 🌎 [RunwayML](runwayml.com/) - Magical AI tools, realtime collaboration, precision editing, and more. Your next-generation content creation suite.
 - 🌎 [Synthesia](www.synthesia.io/) - Create videos from plain text in minutes.
 - 🌎 [Rephrase AI](www.rephrase.ai/) - Rephrase's technology enables hyper-personalized video creation at scale that drive engagement and business efficiencies.
