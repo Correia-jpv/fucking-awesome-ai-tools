@@ -270,6 +270,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - 🌎 [Codeflash](www.codeflash.ai/) - Ship Blazing-Fast Python Code — Every Time.
 - 🌎 [Rysa AI](www.rysa.ai) - AI GTM Automation Agent
 - 🌎 [Agenta](agenta.ai/) - Open-source LLMOps platform for prompt management, LLM evaluation, and observability. Build, evaluate, and monitor production-grade LLM applications. <b><code>&nbsp;&nbsp;4901⭐</code></b> <b><code>&nbsp;&nbsp;&nbsp;727🍴</code></b> [#opensource](https://github.com/agenta-ai/agenta))
+- [agent-qa](https://vostride.com) - Natural-language web, Android and iOS QA with persistent memidex memory, validated self-improvement, and step/screenshot evidence.
 
 
 ## Code
