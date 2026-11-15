@@ -355,6 +355,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - 🌎 [AI Photo Forge](aiphotoforge.com/) - A Telegram bot to generate AI pictures of you.
 - 🌎 [AI Boost](boost.pictures/) - All-in-one service for creating and editing images with AI: upscale images, swap faces, generate new visuals and avatars, try on outfits, reshape body contours, change backgrounds, retouch faces, and even test out tattoos.
 - 🌎 [PlantTattoosAI](www.planttattoosai.com/) - Plant and flower tattoos designs generator trained on real botanicals.
+- 🌎 [Seedream 5.5](seedream55.io/) - Online AI image generation tool for text-to-image and image editing.
 
 
 
@@ -402,6 +403,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - 🌎 [Based AI](www.basedlabs.ai/) - AI Intuitive Interface for Video creating
 - 🌎 [klingai](app.klingai.com/global/) - AI creative studio boasts AI image and video generation capabilities.
 - 🌎 [Sisif](sisif.ai/) - AI Video Generator: Turn Text into Stunning Videos in Seconds
+- 🌎 [H3 Video Generator](h3minimax.com/) - Online AI video generation tool for text-to-video and image-to-video.
 
 
 ### Animation
