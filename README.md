@@ -67,6 +67,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - 🌎 [Gali Chat](www.galichat.com/) - *[reviews](#)* - Your 24/7 AI Support Assistant that helps you grow your business!
 - 🌎 [DeepSeek-R1](www.deepseek.com) -  🌎 [reviews](altern.ai/product/deepseek-r1)* - A versatile AI assistant by DeepSeek, designed for conversational interactions, code generation, and creative tasks.
 - 🌎 [dmwithme](dmwithme.com) - AI companion with realistic emotions that can disagree, get moody, and challenge you.
+- 🌎 [Sammi AI Girlfriend](https://sammiai.app/) - Android app for customizable fictional AI characters, text and voice chats, and creative roleplay.
 
 
 ### Search engines
