@@ -14,6 +14,7 @@ A curated list of AI tools for image processing, generation, editing, and enhanc
 
 ## Image Generation
 
+- [Photoshoot](https://photoshoot.app/?utm_source=github_com&utm_medium=backlink&utm_campaign=202609_w7_backlinks) - AI commercial photography for e-commerce: upload a product photo and generate studio-grade product shots, model/OOTD photos, and campaign scenes.
 - **[DALL·E](https://openai.com/dall-e/)** - Generates realistic images from text descriptions using deep learning models.
 - **[Artbreeder](https://www.artbreeder.com/)** - AI tool for creating and blending artworks, portraits, and landscapes through generative adversarial networks.
 - **[Runway ML](https://runwayml.com/)** - A creative toolkit that enables artists to generate images, videos, and models using AI.
